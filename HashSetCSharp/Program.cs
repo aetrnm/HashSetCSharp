@@ -16,8 +16,6 @@ namespace HashSetCSharp
             hs.Add("1233333");
             hs.Add("12333333");
             hs.Add("123333333");
-            hs.Add("1233333333");
-            hs.Add("12333333333");
             
             Console.WriteLine(hs.Find("12333333333"));
         }
